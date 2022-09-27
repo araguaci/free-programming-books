@@ -62,18 +62,18 @@
 
 ### Git
 
-* [git - basit rehber](https://www.rogerdudler.github.io/git-guide/index.tr.html) - Roger Dudler
-* [Git 101](https://www.gitbook.com/book/aliozgur/git101/details) - Ali Özgür
+* [git - basit rehber](https://rogerdudler.github.io/git-guide/index.tr.html) - Roger Dudler (HTML)
+* [Git 101](https://aliozgur.gitbooks.io/git101/) - Ali Özgür (GitBook)
 
 
 ### Go
 
-* [Go El Kitabı](https://www.github.com/umutphp/the-little-go-book) - Karl Seguin, Umut Işık tarafından çevirildi ([HTML](https://github.com/umutphp/the-little-go-book/blob/master/tr/go.md), [PDF](https://github.com/umutphp/the-little-go-book/releases/download/v07/the-little-go-book-tr.pdf), [EPUB](https://github.com/umutphp/the-little-go-book/releases/download/v07/the-little-go-book-tr.epub))
+* [Go El Kitabı](https://www.github.com/umutphp/the-little-go-book) - Karl Seguin, `trl.:` Umut Işık tarafından çevirildi ([HTML](https://github.com/umutphp/the-little-go-book/blob/master/tr/go.md), [PDF](https://github.com/umutphp/the-little-go-book/releases/download/v07/the-little-go-book-tr.pdf), [EPUB](https://github.com/umutphp/the-little-go-book/releases/download/v07/the-little-go-book-tr.epub))
 
 
 ### Güvenlik ve Gizlilik
 
-* [Özgür Yazılım Derneği Güvenlik Rehberi](https://guvenlik.oyd.org.tr) - Filiz Akin et al.
+* [Özgür Yazılım Derneği Güvenlik Rehberi](https://guvenlik.oyd.org.tr) - Filiz Akin, et al.
 
 
 ### HTML and CSS
@@ -141,6 +141,7 @@
 ### R
 
 * [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://www.github.com/emraher/eybkbrk) - Emrah Er
+* [R for Data Science](http://tr.r4ds.hadley.nz) - Garrett Grolemund, Hadley Wickham, `trl.:` İsmail Bekar, `trl.:` Nurbahar Usta, `trl.:` Bilgecan Şen
 * [R ile Programlamaya Giriş ve Uygulamalar (2014)](http://inet-tr.org.tr/inetconf19/sunum/16.pdf) - Mustafa Gökçe Baydoğan, Berk Orbay, Uzay Çetin (PDF)
 
 

@@ -1,7 +1,7 @@
 ### Índice
 
 * [Agnósticos](#agnósticos)
-    * [IDE / Editores](#ide--editores)
+    * [IDE and editors](#ide-and-editors)
     * [Programação](#programação)
     * [Sistemas Operacionais](#sistemas-operacionais)
 * [Android](#android)
@@ -37,7 +37,7 @@
     * [Vue.js](#vuejs)
 * [Kubernetes](#kubernetes)
 * [LaTeX](#latex)
-* [LISP](#lisp)
+* [Lisp](#lisp)
 * [Lua](#lua)
 * [Pascal](#pascal)
 * [PHP](#php)
@@ -46,6 +46,7 @@
 * [R](#r)
 * [RegEx](#regex)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Shell / Bash Script](#shell--bash)
 * [TypeScript](#typescript)
     * [Angular](#angular)
@@ -53,22 +54,18 @@
 
 ### Agnósticos
 
-#### IDE / Editores
+#### IDE and editors
 
-* [Visual Studio Code: Produtividade infinita](https://github.com/bylearn/VS-Code-Produtividade-Infinita) - Felipe Cabrera Ribeiro dos Santos
-
-
-#### Vim
-
-* [O Editor de Texto Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva et al.
+* [O Editor de Texto Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva, et al.
 * [Vim para Noobs](https://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza (HTML, PDF, EPUB) (*Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo*)
 * [Vimbook](https://cassiobotaro.dev/vimbook/) - Cássio Botaro (HTML)
+* [Visual Studio Code: Produtividade infinita](https://github.com/bylearn/VS-Code-Produtividade-Infinita) - Felipe Cabrera Ribeiro dos Santos
 
 
 #### Programação
 
 * [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao) - Adolfo José G. S. Baudson, Francisco César R. de Araújo (PDF)
-* [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) - Fabricio Ferrari e Cristian Cechinel (PDF)
+* [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) - Fabricio Ferrari, Cristian Cechinel (PDF)
 * [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf) - Gustavo Furtado de Oliveira Alves (PDF)
 
 
@@ -81,7 +78,7 @@
 
 ### Android
 
-* [Google Android: Uma abordagem prática e didática](https://leanpub.com/google-android) - Rafael Guimarães Sakurai - (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
+* [Google Android: Uma abordagem prática e didática](https://leanpub.com/google-android) - Rafael Guimarães Sakurai (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
 
 
 ### Arduino
@@ -99,9 +96,9 @@
 
 * [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF)
 * [Curso de Programação em C - UFMG](http://www2.dcc.ufmg.br/disciplinas/pc/source/introducao_c_renatocm_deeufmg.pdf) - Renato Cardoso Mesquita (PDF)
-* [Guia Beej's Para Programação em Rede - Usando Internet Sockets](http://beej.us/guide/bgnet/translations/bgnet_ptbr.html) - Brian "Beej Jorgensen" Hall, Traduzido por cv8minix3 (HTML)
+* [Guia Beej's Para Programação em Rede - Usando Internet Sockets](http://beej.us/guide/bgnet/translations/bgnet_ptbr.html) - Brian "Beej Jorgensen" Hall, `trl.:` cv8minix3 (HTML)
 * [Introdução a Programação](https://github.com/ufpb-computacao/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
-* [Introdução em Computação - C](http://www.ime.usp.br/~elo/IntroducaoComputacao/).
+* [Introdução em Computação - C](http://www.ime.usp.br/~elo/IntroducaoComputacao/)
 * [Linguagem C - Notas de Aula](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula/) - Carmem Hara, Wagner Zola (HTML, [PDF](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula.pdf))
 * [O Fantástico Mundo da Linguagem C](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) (PDF)
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/)
@@ -161,10 +158,10 @@
 
 ### Git
 
-* [Git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
-* [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) - LTIA UNESP
-* [Pro Git](http://git-scm.com/book/pt-br/)
+* [Git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Roger Dudler (HTML)
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/) - Ben Lynn, `trl.:` Leonardo Siqueira Rodrigues (HTML, PDF)
+* [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) - LTIA UNESP, Marcelo Augusto Cordeiro
+* [Pro Git](http://git-scm.com/book/pt-br/) - Scott Chacon, Ben Straub, et al. (HTML, PDF, EPUB)
 
 
 ### GO
@@ -176,7 +173,7 @@
 
 ### Haskell
 
-* [Aprender o Haskell será um grande bem para você (tradução em andamento)](https://github.com/taylorrf/learnhaskell)
+* [Aprender o Haskell será um grande bem para você](https://github.com/taylorrf/learnhaskell) - Miran Lipovača, `trl.:` Tailor Fontela
 
 
 ### HTML and CSS
@@ -283,7 +280,7 @@
 
 * [Adicionar Bootstrap e Font-awesome no projeto criado com o Vue Cli](https://web.archive.org/web/20180613054310/http://www.vedovelli.com.br/frontend/adicionar-bootstrap-e-font-awesome-no-projeto-criado-com-o-vue-cli/)
 * [Documentação pt-BR](https://br.vuejs.org/v2/guide/)
-* [Vue.js na prática](https://leanpub.com/livro-vue) - Daniel Schmitz and Daniel Pedrinha Georgii (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
+* [Vue.js na prática](https://leanpub.com/livro-vue) - Daniel Schmitz, Daniel Pedrinha Georgii (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
 * [VueJS: Filtro para criar URL’s amigáveis](http://web.archive.org/web/20160331162636/http://carlosgartner.com.br/vuejs-filtro-para-criar-urls-amigaveis/)
 
 
@@ -300,7 +297,7 @@
 * [Latexação](https://www.ime.usp.br/~tassio/arquivo/latex/apostila.pdf) - Tássio Naia dos Santos (PDF)
 
 
-### LISP
+### Lisp
 
 * [Introdução a linguagem LISP](http://www.dca.fee.unicamp.br/courses/EA072/lisp9596/Lisp9596.html) (HTML)
 
@@ -312,7 +309,7 @@
 
 ### Pascal
 
-* [Algoritmos e Estruturas de Dados I](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Alexandre Castilho, Fabiano Silva e Daniel Weingaertner (PDF)
+* [Algoritmos e Estruturas de Dados I](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Alexandre Castilho, Fabiano Silva, Daniel Weingaertner (PDF)
 
 
 ### PHP
@@ -351,7 +348,7 @@
 ### R
 
 * [Análise Exploratória de Dados usando o R](http://www.uesc.br/editora/livrosdigitais2/analiseexploratoria_r.pdf) - Enio Jelihovschi (PDF)
-* [Ciência de Dados com R](https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r/) - Paulo Oliveira, Saulo Guerra, and Robert McDonnell (email address *requested*, not required)
+* [Ciência de Dados com R](https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r/) - Paulo Oliveira, Saulo Guerra, Robert McDonnell (email address *requested*, not required)
 * [Fundamentos Estatísticos de Ciência dos Dados](https://homepages.dcc.ufmg.br/~assuncao/EstatCC/FECD.pdf) - Renato Assunção (PDF)
 * [R para cientistas sociais](http://www.uesc.br/editora/livrosdigitais_20140513/r_cientistas.pdf) - Jakson Alves de Aquino (PDF)
 
@@ -366,6 +363,11 @@
 * [Aprenda a Programar](http://www.jmonteiro.com/aprendaaprogramar/)
 * [Conhecendo Ruby - Eustaquio Rangel](https://leanpub.com/conhecendo-ruby/read)
 * [O (comovente) guia de Ruby do Why](http://why.carlosbrando.com)
+
+
+### Rust
+
+* [A Linguagem de Programação Rust](https://rust-br.github.io/rust-book-pt-br/title-page.html) - Steve Klabnik, Carol Nichols, `trl.:` Lucas Guimarães, `trl.:` Mario Idival, `trl.:` Alberto Margarido, et al. (HTML)
 
 
 ### Shell / Bash
@@ -385,7 +387,7 @@
 
 #### Angular
 
-> :information_source: Veja também &#8230; [AngularJS](#angularjs)
+> :information_source: Veja também &#8230; [AngularJS](#angularjs), [IDE and editors](#ide-and-editors)
 
 * [Angular 2 - Criando sua primeira aplicação no Visual Studio Code](http://www.macoratti.net/17/02/net_ang2vsc1.htm) - José Carlos Macoratti (HTML)
 * [Implemente um aplicativo de página única com o Angular 2](https://www.ibm.com/developerworks/br/library/implemente-aplicativo-pagina-unica-angular-2/) - IBM, Babu Suresh (HTML)

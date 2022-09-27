@@ -5,11 +5,11 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [CodeIgniter](#codeigniter)
-* [Emacs](#emacs)
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
+* [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Vue.js](#vuejs)
@@ -57,11 +57,6 @@
 * [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
 
 
-### Emacs
-
-* [Dokumentasi Emacs Bahasa Indonesia](https://github.com/kholidfu/emacs_doc)
-
-
 ### Flutter
 
 * [Belajar Flutter](https://belajarflutter.com) - Herry Prasetyo (HTML)
@@ -69,8 +64,8 @@
 
 ### Git
 
-* [Belajar Git untuk Pemula](https://github.com/petanikode/belajar-git)
-* [Pro Git 2nd Edition](https://git-scm.com/book/id/v2)
+* [Belajar Git untuk Pemula](https://github.com/petanikode/belajar-git) - Ahmad Muhardian, Petani Kode (HTML)
+* [Pro Git 2nd Edition](https://git-scm.com/book/id/) - Scott Chacon, Ben Straub (HTML)
 
 
 ### Go
@@ -86,6 +81,11 @@
 * [Ebook Belajar HTML Dan CSS Dasar](https://www.malasngoding.com/download-ebook-belajar-html-dan-css-dasar-gratis/)
 * [Tutorial Dasar CSS untuk Pemula](https://www.petanikode.com/tutorial/css/) - Ahmad Muhardian (Petani Kode) *(:construction: Dalam Proses)*
 * [Tutorial HTML untuk Pemula](https://www.petanikode.com/tutorial/html/) - Ahmad Muhardian (Petani Kode)
+
+
+### IDE and editors
+
+* [Dokumentasi Emacs Bahasa Indonesia](https://github.com/kholidfu/emacs_doc) - Kholid Fuadi
 
 
 ### Java
@@ -138,13 +138,13 @@
 
 ### Pemrograman Kompetitif
 
-* [Pemrograman Kompetitif Dasar](https://ksn.toki.id/data/pemrograman-kompetitif-dasar.pdf) - William Gozali & Alham Fikri Aji (PDF)
+* [Pemrograman Kompetitif Dasar](https://ksn.toki.id/data/pemrograman-kompetitif-dasar.pdf) - William Gozali, Alham Fikri Aji (PDF)
 
 
 ### PHP
 
 * [Belajar Laravel Untuk Pemula](https://gilacoding.com/upload/file/Belajar%20Laravel%20Untuk%20Pemula.pdf) - Dadan Hamdani (PDF)
-* [Membuat Bot Telegram dengan PHP](https://www.slideshare.net/HasanudinHS/ebook-i-membuat-bot-telegram-dengan-php) - Hasanudin H Syafaat - (PDF)
+* [Membuat Bot Telegram dengan PHP](https://www.slideshare.net/HasanudinHS/ebook-i-membuat-bot-telegram-dengan-php) - Hasanudin H Syafaat (PDF)
 * [Menjelajahi Yii Framework](https://gilacoding.com/upload/file/menjelajahyiiframework.pdf) - Sabit Huraira (PDF)
 * [Pemrograman Berbasis Objek Modern dengan PHP](https://arsiteknologi.com/wp-content/uploads/Pemrograman_Berbasis_Objek_Modern_dengan_PHP_Google_Play_Book.pdf) - Muhamad Surya Iksanudin (PDF)
 * [Pemrograman Berorientasi Objek Dengan PHP5](https://endangcahyapermana.files.wordpress.com/2016/03/belajar-singkat-pemrograman-berorientasi-objek-dengan-php5.pdf) - Gerry Sabar (PDF)
@@ -160,7 +160,7 @@
 * [Belajar Python](http://www.belajarpython.com)
 * [Dasar Pemrograman Python](https://www.pythonindo.com/tutorial-python-dasar/)
 * [Dasar Pengenalan Pemrograman Python](https://play.google.com/store/books/details/Rolly_Maulana_Awangga_Dasar_dasar_Python?id=YpzDDwAAQBAJ) - Rolly Maulana AwanggaRayhan *(Membutuhkan akun Google Play Books atau email yang valid)*
-* [Database PostgreSQL, Pemrograman Python, dan SMS Gateway](http://rab.co.id/files/python/bukupython2.pdf.gz) - (PDF)
+* [Database PostgreSQL, Pemrograman Python, dan SMS Gateway](http://rab.co.id/files/python/bukupython2.pdf.gz) (PDF)
 * [Kursus Singkat Machine Learning dengan TensorFlow API](https://developers.google.com/machine-learning/crash-course?hl=id)
 * [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)
 * [Workshop Python 101](http://sakti.github.io/python101/)

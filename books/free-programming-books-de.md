@@ -55,8 +55,7 @@
 ### Assembly Language
 
 * [PC Assembly Language](http://drpaulcarter.com/pcasm) - Paul A. Carter
-* [Reverse Engineering für Einsteiger](https://beginners.re/RE4B-DE.pdf) - Dennis Yurichev, Dennis Siekmeier, Julius Angres,
-Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
+* [Reverse Engineering für Einsteiger](https://beginners.re/RE4B-DE.pdf) - Dennis Yurichev, Dennis Siekmeier, Julius Angres, Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 
 
 ### C
@@ -88,9 +87,9 @@ Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 
 ### Git
 
-* [Das Git-Buch](http://gitbu.ch) (PDF, EPUB)
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de) (Online)
-* [Pro Git](https://git-scm.com/book/de/current) - Scott Chacon, Ben Straub (Online, PDF, EPUB)
+* [Das Git-Buch](http://gitbu.ch) - Valentin Haenel, Julius Plenz (PDF, EPUB)
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de) - Ben Lynn, `trl.:` Benjamin Bellee, `trl.:` Armin Stebich (HTML, PDF)
+* [Pro Git](https://git-scm.com/book/de/) - Scott Chacon, Ben Straub, `trl.:` Ben Straub (HTML, PDF, EPUB, Kindle)
 
 
 ### Go
@@ -98,7 +97,7 @@ Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 * [Effektiv Go Programmieren](http://www.bitloeffel.de/DOC/golang/effective_go_de.html) (Online)
 * [Eine Tour durch Go](https://github.com/michivo/go-tour-de)
 * [Erstelle Webanwendungen mit Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/de)
-* [The Little Go Book](https://github.com/Aaronmacaron/the-little-go-book-de) - Karl Seguin, Aaron Ebnöther ([HTML](https://github.com/Aaronmacaron/the-little-go-book-de/blob/master/de/go.md))
+* [The Little Go Book](https://github.com/Aaronmacaron/the-little-go-book-de) - Karl Seguin, `trl.:` Aaron Ebnöther ([HTML](https://github.com/Aaronmacaron/the-little-go-book-de/blob/master/de/go.md))
 
 
 ### Groovy
@@ -154,7 +153,7 @@ Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 
 ### Mathematik
 
-* [Calcul mathématique avec SAGE](http://www.loria.fr/~zimmerma/sagebook/CalculDeutsch.pdf) - Paul Zimmermann et al. (PDF)
+* [Calcul mathématique avec SAGE](http://www.loria.fr/~zimmerma/sagebook/CalculDeutsch.pdf) - Paul Zimmermann, et al. (PDF)
 
 
 ### Meta-Lists

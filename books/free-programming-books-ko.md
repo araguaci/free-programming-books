@@ -7,7 +7,7 @@
 * [C++](#cpp)
 * [Docker](#docker)
 * [Elastic](#elastic)
-* [GIT](#git)
+* [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
@@ -72,19 +72,22 @@
 * [Elastic 가이드북](https://esbook.kimjmin.net) - 김종민
 
 
-### GIT
+### Git
 
-* [깃허브 치트 시트](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md)
-* [Git - 간편 안내서](http://rogerdudler.github.io/git-guide/index.ko.html)
-* [Pro Git 한글 번역](https://git-scm.com/book/ko/v2) - 최신 버전
+* [깃허브 치트 시트](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md) - Tim Green, `trl.:` marocchino, `trl.:` Chayoung You, `trl.:` Will 保哥 (HTML)
+* [Git - 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html) - Roger Dudler, `trl.:` Juntai Park, `trl.:` Ardie Hwang (HTML)
+* [Pro Git 한글 번역](https://git-scm.com/book/ko/) - Scott Chacon, Ben Straub, `trl.:` Sean Lee, `trl.:` Seonghwan Lee, `trl.:` Sungmann Cho, `trl.:` Junyeong Yim, et al. (HTML, PDF, EPUB) *(최신 버전)*
 
 
 ### Go
 
 * [가장 빨리 만나는 Go 언어](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
+* [효과적인 Go 프로그래밍](https://gosudaweb.gitbooks.io/effective-go-in-korean/content/)
 * [AN INTRODUCTION TO PROGRAMMING IN GO 한글 번역](http://www.codingnuri.com/golang-book/index.html)
+* [Go 문서 한글 번역](https://github.com/golang-kr/golang-doc/wiki)
 * [Go 언어 웹 프로그래밍 철저 입문](https://thebook.io/006806/)
-* [The Little Go Book. 리틀 고 책입니다](https://github.com/byounghoonkim/the-little-go-book/) - Karl Seguin, Byounghoon Kim ([HTML](https://github.com/byounghoonkim/the-little-go-book/blob/master/ko/go.md))
+* [The Little Go Book. 리틀 고 책입니다](https://github.com/byounghoonkim/the-little-go-book/) - Karl Seguin, `trl.:` Byounghoon Kim ([HTML](https://github.com/byounghoonkim/the-little-go-book/blob/master/ko/go.md))
+* [The Ultimate Go Study Guide 한글 번역](https://github.com/ultimate-go-korean/translation)
 
 
 ### HTML and CSS
@@ -105,7 +108,7 @@
 
 #### Node.js
 
-* [Node.js API 한글 번역 by outsideris](http://nodejs.sideeffect.kr/docs/)
+* [Node.js API 한글 번역](http://nodejs.sideeffect.kr/docs/) - outsideris
 
 
 #### Webpack
@@ -164,7 +167,7 @@
 * [파이썬 헤엄치기](https://wikidocs.net/book/5148) - 해달 프로그래밍
 * [파이썬을 여행하는 히치하이커를 위한 안내서!](https://python-guide-kr.readthedocs.io/ko/latest/)
 * [파이썬을 이용한 비트코인 자동매매](https://wikidocs.net/book/1665) - 조대표
-* [A Byte of Python 한글 번역 by Jeongbin Park](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) (PDF)
+* [A Byte of Python 한글 번역](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) - Jeongbin Park (PDF)
 * [PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165) - Dardao (HTML)
 
 
