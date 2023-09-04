@@ -97,6 +97,7 @@
 ### IDE and editors
 
 * [Dokumentasi Emacs Bahasa Indonesia](https://github.com/kholidfu/emacs_doc) - Kholid Fuadi
+* [Pengantar Vi iMproved: Sebuah panduan praktikal Vim sebagai editor teks sehari-hari](https://github.com/nauvalazhar/pengantar-vi-improved) - Muhamad Nauval Azhar
 
 
 ### Java
@@ -146,7 +147,7 @@
 
 ### NoSQL
 
-* [MongoDB Untuk Indonesia](https://kristories.gitbooks.io/pengantar-mongodb/content/)
+* [MongoDB Untuk Indonesia: Memahami Konsep dan Implementasi MongoDB](https://kristories.gumroad.com/l/mongodb-untuk-indonesia) - Wahyu Kristianto (PDF, email address *requested*, not required)
 
 
 ### Pemrograman Fungsional
